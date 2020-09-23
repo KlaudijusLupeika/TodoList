@@ -164,8 +164,7 @@ export default {
 
   &:focus{
     outline: none;
-    border: 1px solid #534D41;
-    padding: 10px;
+    padding: 11px;
   }
   &::placeholder{
     color: #cacaca;
