@@ -147,12 +147,16 @@ export default {
 
 @import url("https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css");
 
-
+@media only screen and (max-width: 500px) {
+  .container-box{
+    width: 100%;
+  }
+}
 .container-box{
   font-weight: 100;
   background-color: #fff;
   padding: 30px;
-  width: 500px;
+  max-width: 500px;
 }
 .todo-input{
   font-size: 1.3rem;
