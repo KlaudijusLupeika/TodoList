@@ -143,7 +143,7 @@ export default {
 
 </script>
 
-<style lang="scss">
+<style lang="sass">
 
 @import url("https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css");
 
